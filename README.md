@@ -8,6 +8,12 @@
 
 ## RepoToText
 
+This is a fork of [JeremiahPetersen/RepoToText](https://github.com/JeremiahPetersen/RepoToText).
+
+**The live version of this application is available at: [https://repototext-c6fk.onrender.com/](https://repototext-c6fk.onrender.com/)** (with 50 sec timeout due to free version of render.)
+
+Original description: 
+
 RepoToText is a web app that scrapes a GitHub repository and converts its files into a single organized .txt. It allows you to enter the URL of a GitHub repository and an optional documentation URL (the doc info will append to the top of the .txt). The app retrieves the contents of the repository, including all files and directories, and also fetches the documentation from the provided URL and includes it in a single organized text file. The .txt file will be saved in the /data folder with user + repo + timestamp info. This file can then be uploaded to (GPT-4, Claude Opus, etc) and you can use the chatbot to interact with the entire GitHub repo. 
 
 ## Demo
