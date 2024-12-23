@@ -10,7 +10,7 @@
 
 This is a fork of [JeremiahPetersen/RepoToText](https://github.com/JeremiahPetersen/RepoToText).
 
-**The live version of this application is available at: [https://repototext-c6fk.onrender.com/](https://repototext-c6fk.onrender.com/)** (with 50 sec timeout due to free version of render.)
+**The live version of this application is available at: [https://repototext-c6fk.onrender.com/](https://repototext-c6fk.onrender.com/)** (with 50 sec inacticity timeout due to free version of render.)
 
 Original description: 
 
